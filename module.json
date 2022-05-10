@@ -1,7 +1,7 @@
 {
-    "name": "marks-headshot-maps",
-    "title": "Mark's Headshot the Rot Maps",
-    "description": "A complete remake of the headshot the rot maps.",
+    "name": "marks-headshot-remake",
+    "title": "Mark's Headshot Remake",
+    "description": "A complete remake of the headshot the rot maps, Including a bonus encounter with the diabolical theatre director. Artwork by forgotten-adventures.net and Tom Cartos.",
     "version": "1.0.0",
     "author": "Me",
     "minimumCoreVersion": "0.8.6",
@@ -20,6 +20,13 @@
             "path": "./packs/marks-headshot-scenes.db",
             "entity": "Scene",
             "type": "Scene"
+        },
+        {
+            "name": "marks-headshot-journal-entries",
+            "label": "marks-headshot Journal Entries",
+            "path": "./packs/marks-headshot-journal-entries.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
         }
     ],
     "manifest": "https://github.com/MarkPearce/marks-headshot-remake/releases/latest/download/module.json",
