@@ -22,9 +22,9 @@
             "type": "Scene"
         },
         {
-            "name": "marks-headshot-journal-entries",
-            "label": "marks-headshot Journal Entries",
-            "path": "./packs/marks-headshot-journal-entries.db",
+            "name": "marks-headshot-journal",
+            "label": "Mark's Headshot Journal",
+            "path": "./packs/marks-headshot-journal.db",
             "entity": "JournalEntry",
             "type": "JournalEntry"
         }
