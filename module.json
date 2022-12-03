@@ -1,7 +1,7 @@
 {
   "id": "marks-headshot-remake",
   "title": "Mark's Headshot Remake",
-  "description": "A complete remake of the headshot the rot maps, Artwork by forgotten-adventures.net and Tom Cartos. Kitbash by Mark",
+  "description": "A complete remake of the Headshot the Rot Maps.",
   "version": "2.0.0",
   "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
   "compatibility": {
@@ -12,14 +12,12 @@
       "name": "marks-headshot-scenes",
       "label": "Mark's Headshot Scenes",
       "path": "./packs/marks-headshot-scenes.db",
-      "entity": "Scene",
       "type": "Scene"
     },
     {
       "name": "marks-headshot-journal",
       "label": "Mark's Headshot Journal",
       "path": "./packs/marks-headshot-journal.db",
-      "entity": "JournalEntry",
       "type": "JournalEntry"
     }
   ],
