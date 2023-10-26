@@ -5,7 +5,8 @@
   "version": "2.0.0",
   "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
   "compatibility": {
-    "minimum": 10
+    "minimum": 10,
+    "verified": 11
   },
   "packs": [
     {
